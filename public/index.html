@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Asoy Chat</title>
+    <style>
+      body { font-family: system-ui, -apple-system, Roboto, 'Segoe UI', sans-serif; margin: 16px; }
+      #messages { border: 1px solid #ddd; padding: 12px; height: 60vh; overflow:auto; }
+      .msg { margin-bottom: 8px; }
+      .user { color: #0a58ca; }
+      .bot { color: #198754; }
+      #controls { margin-top: 8px; display:flex; gap:8px; }
+      textarea { flex:1; height:64px; }
+    </style>
+  </head>
+  <body>
+    <h2>Asoy Chat (prototype)</h2>
+    <div id="messages"></div>
+    <div id="controls">
+      <textarea id="input" placeholder="Tulis pesan..."></textarea>
+      <button id="send">Kirim</button>
+      <button id="train">Latih</button>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

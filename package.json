@@ -1,18 +1,14 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "asoy-chat",
+  "version": "0.1.0",
+  "description": "Lightweight chat prototype with saved conversations and simple training",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "train": "node train.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.4.0",
-    "gradient-string": "^2.0.2",
-    "pino": "^8.15.0",
-    "prompt-sync": "^4.2.0"
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
   }
 }

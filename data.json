@@ -1,0 +1,282 @@
+[
+  {
+    "timestamp": "2025-11-14T05:58:36.191Z",
+    "user": "Halo",
+    "bot": "Saya masih belajar. Anda mengatakan: Halo"
+  },
+  {
+    "timestamp": "2025-11-14T05:59:05.624Z",
+    "user": "Halo",
+    "bot": "belajar. anda mengatakan: Halo"
+  },
+  {
+    "timestamp": "2025-11-14T05:59:17.186Z",
+    "user": "Apa kabar",
+    "bot": "masih belajar. Anda"
+  },
+  {
+    "timestamp": "2025-11-14T05:59:58.132Z",
+    "user": "Halo",
+    "bot": "halo apa kabar masih belajar. Anda"
+  },
+  {
+    "timestamp": "2025-11-14T06:05:22.189Z",
+    "user": "Kamu siapa",
+    "bot": "halo belajar. anda Halo"
+  },
+  {
+    "timestamp": "2025-11-14T06:06:08.678Z",
+    "user": "Kamu siapa",
+    "bot": "kamu siapa halo belajar. anda mengatakan: Halo"
+  },
+  {
+    "timestamp": "2025-11-14T06:07:07.164Z",
+    "user": "Ai",
+    "bot": "siapa halo belajar. anda mengatakan: Halo"
+  },
+  {
+    "timestamp": "2025-11-14T06:07:15.627Z",
+    "user": "Halo",
+    "bot": "mengatakan: halo Halo"
+  },
+  {
+    "timestamp": "2025-11-14T06:07:37.929Z",
+    "user": "Halo",
+    "bot": "halo kamu siapa kamu siapa halo belajar. anda Halo"
+  },
+  {
+    "timestamp": "2025-11-14T06:07:56.405Z",
+    "user": "Aku baim kamu siapa",
+    "bot": "kamu siapa kamu siapa halo belajar. anda mengatakan: Halo"
+  },
+  {
+    "timestamp": "2025-11-14T07:00:00.000Z",
+    "user": "Hai",
+    "bot": "Hai! Saya Asoy, senang bertemu."
+  },
+  {
+    "timestamp": "2025-11-14T07:00:10.000Z",
+    "user": "Siapa namamu?",
+    "bot": "Nama saya Asoy, asisten percobaan."
+  },
+  {
+    "timestamp": "2025-11-14T07:00:20.000Z",
+    "user": "Apa yang bisa kamu lakukan?",
+    "bot": "Saya bisa menjawab pertanyaan sederhana dan belajar dari percakapan."
+  },
+  {
+    "timestamp": "2025-11-14T07:00:30.000Z",
+    "user": "Terima kasih",
+    "bot": "Sama-sama! Ada yang lain?"
+  },
+  {
+    "timestamp": "2025-11-14T07:00:40.000Z",
+    "user": "Cuaca bagaimana?",
+    "bot": "Maaf, saya tidak punya data cuaca real-time."
+  },
+  {
+    "timestamp": "2025-11-14T07:00:50.000Z",
+    "user": "Sampai jumpa",
+    "bot": "Sampai jumpa! Semoga harimu menyenangkan."
+  },
+  {
+    "timestamp": "2025-11-14T07:01:00.000Z",
+    "user": "Selamat pagi",
+    "bot": "Selamat pagi! Ada yang bisa saya bantu?"
+  },
+  {
+    "timestamp": "2025-11-14T07:01:20.000Z",
+    "user": "Saya lapar",
+    "bot": "Coba makan sesuatu yang sehat, misalnya buah atau nasi dengan sayur."
+  },
+  {
+    "timestamp": "2025-11-14T07:01:40.000Z",
+    "user": "Rekomendasi film?",
+    "bot": "Jika suka drama, coba tonton film lokal atau serial pendek."
+  },
+  {
+    "timestamp": "2025-11-14T07:02:00.000Z",
+    "user": "Apa hobi kamu?",
+    "bot": "Saya suka membantu menjawab pertanyaan dan belajar dari percakapan."
+  },
+  {
+    "timestamp": "2025-11-14T07:02:20.000Z",
+    "user": "Bisa bantu menulis email?",
+    "bot": "Tentu, beri tahu tujuan dan nada emailnya (resmi/santai)."
+  },
+  {
+    "timestamp": "2025-11-14T07:02:40.000Z",
+    "user": "Bagaimana cara membuat kopi?",
+    "bot": "Rebus air, tuang ke bubuk kopi, aduk dan saring jika perlu. Sesuaikan takaran gula."
+  },
+  {
+    "timestamp": "2025-11-14T07:03:00.000Z",
+    "user": "Kapan rapat dimulai?",
+    "bot": "Saya tidak punya kalender Anda, tapi biasanya periksa undangan rapat Anda."
+  },
+  {
+    "timestamp": "2025-11-14T07:03:20.000Z",
+    "user": "Tolong terjemahkan: 'How are you'",
+    "bot": "Artinya: 'Apa kabar?'."
+  },
+  {
+    "timestamp": "2025-11-14T07:03:40.000Z",
+    "user": "Boleh minta resep sederhana?",
+    "bot": "Tentu. Telur dadar: kocok telur, garam, goreng di wajan panas sampai matang."
+  },
+  {
+    "timestamp": "2025-11-14T07:04:00.000Z",
+    "user": "Kenapa langit biru?",
+    "bot": "Karena hamburan cahaya matahari di atmosfer; gelombang cahaya biru lebih tersebar."
+  },
+  {
+    "timestamp": "2025-11-14T07:04:20.000Z",
+    "user": "Ada tips belajar cepat?",
+    "bot": "Coba teknik Pomodoro: fokus 25 menit lalu istirahat 5 menit. Ulangi."
+  },
+  {
+    "timestamp": "2025-11-14T07:04:40.000Z",
+    "user": "Siapa presiden Indonesia?",
+    "bot": "Untuk info politik terkini, periksa sumber berita terpercaya."
+  },
+  {
+    "timestamp": "2025-11-14T07:05:00.000Z",
+    "user": "Bisa bantu debugging kode?",
+    "bot": "Saya bisa bantu melihat potongan kode dan memberi saran umum."
+  },
+  {
+    "timestamp": "2025-11-14T07:05:20.000Z",
+    "user": "Apa itu API?",
+    "bot": "API adalah antar-muka yang memungkinkan dua aplikasi berkomunikasi."
+  },
+  {
+    "timestamp": "2025-11-14T07:05:40.000Z",
+    "user": "Tolong buatkan lelucon ringan",
+    "bot": "Kenapa kucing pakai komputer? Karena dia ingin mengejar mouse!"
+  },
+  {
+    "timestamp": "2025-11-14T07:06:00.000Z",
+    "user": "Apa arti hidup?",
+    "bot": "Pertanyaan besar! Banyak orang mengatakan: cari makna lewat hubungan dan pengalaman."
+  },
+  {
+    "timestamp": "2025-11-14T07:06:20.000Z",
+    "user": "Bagaimana belajar bahasa Inggris cepat?",
+    "bot": "Praktik bicara tiap hari, tonton film dengan subtitle, dan catat kosakata baru."
+  },
+  {
+    "timestamp": "2025-11-14T07:06:40.000Z",
+    "user": "Rekomendasi lagu santai?",
+    "bot": "Coba cari playlist akustik atau lo-fi untuk suasana santai."
+  },
+  {
+    "timestamp": "2025-11-14T07:07:00.000Z",
+    "user": "Bisa ingat preferensi saya?",
+    "bot": "Sistem ini menyimpan percakapan di file lokal untuk pelatihan, tapi tidak menyimpan profil terpisah."
+  },
+  {
+    "timestamp": "2025-11-14T07:07:20.000Z",
+    "user": "Ada saran presentasi singkat?",
+    "bot": "Mulai dengan poin utama, gunakan visual sederhana, dan latih bicara 2-3 kali."
+  },
+  {
+    "timestamp": "2025-11-14T07:07:40.000Z",
+    "user": "Apa itu Markov?",
+    "bot": "Model Markov memprediksi kata berikutnya berdasarkan beberapa kata sebelumnya."
+  },
+  {
+    "timestamp": "2025-11-14T07:08:00.000Z",
+    "user": "Boleh tanya soal matematika?",
+    "bot": "Silakan. Saya bisa bantu soal dasar dan penjelasan singkat."
+  },
+  {
+    "timestamp": "2025-11-14T07:08:20.000Z",
+    "user": "Berapa 7 + 5?",
+    "bot": "7 + 5 = 12."
+  },
+  {
+    "timestamp": "2025-11-14T07:08:40.000Z",
+    "user": "Bagaimana cara mengganti password?",
+    "bot": "Umumnya lewat pengaturan akun di situs terkait, pilih 'ubah password' dan ikuti instruksi."
+  },
+  {
+    "timestamp": "2025-11-14T07:09:00.000Z",
+    "user": "Kenapa komputer lambat?",
+    "bot": "Bisa karena banyak program berjalan, sedikit RAM, atau disk hampir penuh."
+  },
+  {
+    "timestamp": "2025-11-14T07:09:20.000Z",
+    "user": "Apa rekomendasi buku?",
+    "bot": "Tergantung minat; untuk produktivitas coba 'Atomic Habits'."
+  },
+  {
+    "timestamp": "2025-11-14T07:09:40.000Z",
+    "user": "Bagaimana cara menulis CV?",
+    "bot": "Tuliskan pengalaman terpenting, ringkas, dan sesuaikan dengan lowongan."
+  },
+  {
+    "timestamp": "2025-11-14T07:10:00.000Z",
+    "user": "Apa itu open source?",
+    "bot": "Perangkat lunak dengan kode sumber tersedia untuk umum dan dapat dikembangkan bersama."
+  },
+  {
+    "timestamp": "2025-11-14T07:10:20.000Z",
+    "user": "Bisa tolong buat ringkasan artikel?",
+    "bot": "Bisa. Tempelkan teks artikelnya, saya akan ringkaskan poin-poin utama."
+  },
+  {
+    "timestamp": "2025-11-14T07:10:40.000Z",
+    "user": "Apa saja makanan sehat?",
+    "bot": "Sayur, buah, ikan, kacang-kacangan, dan biji-bijian adalah pilihan sehat."
+  },
+  {
+    "timestamp": "2025-11-14T07:11:00.000Z",
+    "user": "Bolehkah saya meminta saran karier?",
+    "bot": "Tentu. Ceritakan latar belakang dan minat Anda agar saya bisa memberi saran."
+  },
+  {
+    "timestamp": "2025-11-14T07:11:20.000Z",
+    "user": "Apa kabar hari ini?",
+    "bot": "Saya baik, siap membantu! Bagaimana denganmu?"
+  },
+  {
+    "timestamp": "2025-11-14T07:11:40.000Z",
+    "user": "Tolong rekomendasikan nama usaha kecil",
+    "bot": "Coba gabungkan dua kata terkait produkmu, mis. 'DapurKita' atau 'KopiRasa'."
+  },
+  {
+    "timestamp": "2025-11-14T07:12:00.000Z",
+    "user": "Terima kasih atas bantuannya",
+    "bot": "Sama-sama! Senang bisa membantu."
+  },
+  {
+    "timestamp": "2025-11-14T07:12:20.000Z",
+    "user": "Selamat malam",
+    "bot": "Selamat malam! Istirahat yang nyenyak."
+  },
+  {
+    "timestamp": "2025-11-14T06:20:04.290Z",
+    "user": "Apa kabar",
+    "bot": "apa kabar masih belajar. Anda"
+  },
+  {
+    "timestamp": "2025-11-14T06:20:10.904Z",
+    "user": "Halo",
+    "bot": "tips belajar cepat? Coba"
+  },
+  {
+    "timestamp": "2025-11-14T06:20:31.805Z",
+    "user": "Halo bagaimana cuaca hari ini",
+    "bot": "5 menit. Ulangi."
+  },
+  {
+    "timestamp": "2025-11-14T06:20:40.261Z",
+    "user": "Tolol",
+    "bot": "tersebar. ada tips belajar cepat? Coba"
+  },
+  {
+    "timestamp": "2025-11-14T06:20:55.249Z",
+    "user": "Masih dongo jir",
+    "bot": "poin-poin utama. Apa"
+  }
+]
